@@ -1,7 +1,8 @@
 <resources>
+    // App Name
     <string name="app_name">MAP524 Lab 2</string>
-
-    <string name="hello_world">Hello world!</string>
+    // Main Name
     <string name="hello_me">Hello Stephen Ruthland</string>
+    // Setting
     <string name="action_settings">Settings</string>
 </resources>
